@@ -8,7 +8,10 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "node-fetch": "^1.7.3",
+    "request": "^2.83.0"
+  },
   "devDependencies": {
     "eslint": "^4.13.1",
     "eslint-config-prettier": "^2.9.0",
